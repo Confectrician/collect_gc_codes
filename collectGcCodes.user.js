@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name           collectGC-Codes
-// @namespace      http://lifesuche.de/
+// @author          Confectrician
+// @namespace      https://github.com/Confectrician/collect_gc_codes/
 // @description    Collect GC-Codes from Searchresult Pages
 // @include        http://www.geocaching.com/seek/nearest.aspx*
 // @grant           GM_getValue
