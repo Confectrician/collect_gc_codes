@@ -1,14 +1,16 @@
 // ==UserScript==
-// @name           collectGC-Codes
+// @name            collectGC-Codes
 // @author          Confectrician
-// @namespace      https://github.com/Confectrician/collect_gc_codes/
-// @description    Collect GC-Codes from Searchresult Pages
-// @include        http://www.geocaching.com/seek/nearest.aspx*
+// @namespace       https://github.com/Confectrician/collect_gc_codes/
+// @description     Collect GC-Codes from Searchresult Pages
+// @include         http://www.geocaching.com/seek/nearest.aspx*
 // @grant           GM_getValue
 // @grant           GM_setValue
 // @grant           GM_registerMenuCommand
 // @grant           unsafeWindow
-// @version        2.0
+// @downloadURL     https://greasyfork.org/scripts/5441-collectgc-codes
+// @updateURL       https://greasyfork.org/scripts/5441-collectgc-codes
+// @version         2.01
 // ==/UserScript==
 
 
